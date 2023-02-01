@@ -18,7 +18,7 @@ import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 
 import com.anubhavtrainings.demo.entities.Vendor;
-
+// testing git
 
 //@Profile({"local", "cf-test", "cf-dev","cf-prod"})
 @Configuration
